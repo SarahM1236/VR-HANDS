@@ -1,4 +1,4 @@
-# Unity-QuestXRHands
+# FirstXRHands
 
 A quickstart Unity 2022 project for Oculus Quest uging XR Interaction toolkit and hands detection
 
